@@ -7,7 +7,7 @@
 ### About Me  
 I'm a proud Pittsburgher with a passion for problem-solving and a love for all things Pittsburgh sports.
 
-I bring a unique blend of analytical prowess and a relentless drive to excel in development. With a solid foundation in object-oriented programming, web application, and database programming, I am well-equipped for tackling complex projects. Currently, I am enhancing my skills through Tech Elevator's full-stack bootcamp, where I've received over 800 hours of education and hands-on experience, preparing me to thrive in fast-paced development environments.
+I bring a unique blend of analytical prowess and a relentless drive to excel in development. With a solid foundation in object-oriented programming, web application, and database programming, I am well-equipped for tackling complex projects. I recently completed Tech Elevator bootcamp, where I've received over 800 hours of education and hands-on experience, preparing me to thrive in fast-paced development environments.
 
 Prior to my transition into the tech industry, I cultivated valuable leadership and problem-solving skills in diverse professional settings. At Progressive Insurance, I exceeded performance measures as an Insurance Adjuster, consistently managing a high volume of claims while mentoring and coaching a team to top performance in the region.
   
